@@ -29,3 +29,5 @@ class Stat_base:
     def calc_median():
 
         pass
+
+    
